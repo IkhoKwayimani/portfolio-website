@@ -1,81 +1,170 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Ikho Kwayimani | ICT Graduate</title>
-     <link rel="stylesheet" href="style-v2.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ikho Kwayimani | Software Developer Portfolio</title>
+  <link rel="stylesheet" href="style-v2.css" />
 </head>
 <body>
+  <header class="site-header">
+    <nav class="navbar container">
+      <h1 class="logo">Ikho Kwayimani</h1>
+      <ul class="nav-links">
+        <li><a href="#about">About</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#education">Education</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
 
-<h1>Ikho Kwayimani</h1>
-<p>
-Advanced Diploma in ICT (Applications Development)<br>
-Aspiring Analyst / Software Development Intern
-</p>
+  <main>
+    <section class="hero">
+      <div class="container hero-content">
+        <p class="hero-tag">Aspiring Software Developer</p>
+        <h2>Building practical software solutions for real-world problems.</h2>
+        <p class="hero-text">
+          Diploma and Advanced Diploma in ICT (Applications Development),
+          currently pursuing a Bachelor of Honours in Computer Science.
+        </p>
+        <div class="hero-buttons">
+          <a href="#projects" class="btn btn-primary">View Projects</a>
+          <a href="#contact" class="btn btn-secondary">Contact Me</a>
+        </div>
+      </div>
+    </section>
 
-<hr>
+    <section id="about" class="section">
+      <div class="container">
+        <h2 class="section-title">About Me</h2>
+        <p class="section-text">
+          I am an ICT graduate with a strong interest in software development,
+          web applications, and solving practical problems through technology.
+          I enjoy building systems that are useful, user-focused, and well-structured.
+        </p>
+        <p class="section-text">
+          I am currently pursuing a Bachelor of Honours in Computer Science and
+          seeking opportunities where I can contribute, grow technically, and gain
+          real-world industry experience as a junior developer or intern.
+        </p>
+      </div>
+    </section>
 
-<h2>About Me</h2>
-<p>
-I am an ICT graduate with a strong interest in software development and IT systems.
-I enjoy learning through hands-on projects and building practical solutions.
-I am actively seeking an internship or junior role where I can apply my skills,
-continue learning, and contribute to real-world projects.
-</p>
+    <section id="skills" class="section section-alt">
+      <div class="container">
+        <h2 class="section-title">Technical Skills</h2>
+        <div class="skills-grid">
+          <span class="skill-badge">Python</span>
+          <span class="skill-badge">Django</span>
+          <span class="skill-badge">Java</span>
+          <span class="skill-badge">JavaScript</span>
+          <span class="skill-badge">HTML</span>
+          <span class="skill-badge">CSS</span>
+          <span class="skill-badge">React</span>
+          <span class="skill-badge">Node.js</span>
+          <span class="skill-badge">MongoDB</span>
+          <span class="skill-badge">SQL</span>
+          <span class="skill-badge">Git</span>
+          <span class="skill-badge">GitHub</span>
+        </div>
+        <p class="section-text skills-note">
+          My focus is on building full-stack and web-based applications, writing
+          clean code, and improving through practical projects.
+        </p>
+      </div>
+    </section>
 
-<hr>
+    <section id="projects" class="section">
+      <div class="container">
+        <h2 class="section-title">Projects</h2>
+        <div class="projects-grid">
 
-<h2>Skills</h2>
-<ul>
-    <li>Python</li>
-    <li>Django</li>
-    <li>Java</li>
-    <li>JavaScript</li>
-    <li>HTML & CSS</li>
-    <li>MongoDB</li>
-    <li>Git & GitHub</li>
- </ul>
-    
- <p>
-I apply these skills through hands-on projects, focusing on clean code,
-problem-solving, and practical functionality.
-</p>
+          <article class="project-card">
+            <h3>FixItNow</h3>
+            <p>
+              A home services platform that connects customers with technicians.
+              The system includes appointment booking, service management,
+              technician dashboards, and workflow features for both customers and technicians.
+            </p>
+            <p class="project-stack">
+              <strong>Tech Stack:</strong> Django, HTML, CSS, JavaScript, Database Integration
+            </p>
+            <div class="project-links">
+              <a href="#" target="_blank">GitHub</a>
+              <a href="#" target="_blank">Live Demo</a>
+            </div>
+          </article>
 
-<hr>
 
-<h2>Projects</h2>
-<p>
-<h3>To-Do List Web App</h3>
-<p>
-A web-based to-do list application built using HTML, CSS, and JavaScript.
-Users can add and delete tasks, and tasks are saved using browser localStorage,
-so they persist even after refreshing or closing the browser.
-</p>
-    
- <p>
-<a href="https://ikhokwayimani.github.io/todo-list-app/" target="_blank">Live Demo</a> |
-<a href="https://github.com/IkhoKwayimani/todo-list-app" target="_blank">View Code</a>   
- </p>   
- 
-<hr>
-<h3>Internship Application Tracker (Python)</h3>
-<p>
-A Python command-line application that tracks internship/job applications.
-It supports adding, viewing, searching, and updating application statuses.
-Data is saved to a CSV file that can be opened in Excel.
-</p>  
-    
-<p>
-<a href="https://github.com/IkhoKwayimani/internship-tracker" target="_blank">View Code</a>
-</p>
+          <article class="project-card">
+            <h3>To-Do List Web App</h3>
+            <p>
+              A web-based to-do list application built using HTML, CSS, and JavaScript.
+              Users can add and delete tasks, and tasks are saved using browser localStorage
+              so they remain available after refreshing the browser.
+            </p>
+            <p class="project-stack">
+              <strong>Tech Stack:</strong> HTML, CSS, JavaScript
+            </p>
+            <div class="project-links">
+              <a href="https://ikhokwayimani.github.io/todo-list-app/" target="_blank">Live Demo</a>
+              <a href="https://github.com/IkhoKwayimani/todo-list-app" target="_blank">GitHub</a>
+            </div>
+          </article>
 
-<hr>
+          <article class="project-card">
+            <h3>Internship Application Tracker</h3>
+            <p>
+              A Python command-line application used to track internship and job
+              applications. It supports adding, viewing, searching, and updating
+              application records, with data saved to CSV for easy management.
+            </p>
+            <p class="project-stack">
+              <strong>Tech Stack:</strong> Python, CSV File Handling
+            </p>
+            <div class="project-links">
+              <a href="https://github.com/IkhoKwayimani/internship-tracker" target="_blank">GitHub</a>
+            </div>
+          </article>
 
-<h2>Contact</h2>
-<p>
-GitHub: <a href="https://github.com/IkhoKwayimani">github.com/IkhoKwayimani</a><br>
-LinkedIn: <a href="https://www.linkedin.com/in/ikwayimani">linkedin.com/in/ikhokwayimani</a><br>
-Email: ikhoblaai@gmail.com
-</p>
+        </div>
+      </div>
+    </section>
 
+    <section id="education" class="section section-alt">
+      <div class="container">
+        <h2 class="section-title">Education</h2>
+        <div class="education-card">
+          <ul class="education-list">
+            <li><strong>Bachelor of Honours in Computer Science</strong> — Currently Pursuing</li>
+            <li><strong>Advanced Diploma in Information Communication Technology</strong> (Applications Development)</li>
+            <li><strong>Diploma in Information Communication Technology</strong> (Applications Development)</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="section">
+      <div class="container">
+        <h2 class="section-title">Contact</h2>
+        <p class="section-text">
+          I am open to internship, graduate, and junior software development opportunities.
+        </p>
+        <div class="contact-links">
+          <p><strong>GitHub:</strong> <a href="https://github.com/IkhoKwayimani" target="_blank">github.com/IkhoKwayimani</a></p>
+          <p><strong>LinkedIn:</strong> <a href="#" target="_blank">www.linkedin.com/in/ikwayimani</a></p>
+          <p><strong>Email:</strong> <a href="mailto:your-email@example.com">ikhoblaai@gmail.com</a></p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; 2026 Ikho Kwayimani. All rights reserved.</p>
+    </div>
+  </footer>
 </body>
 </html>
