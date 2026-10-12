@@ -24,7 +24,7 @@ This portfolio was built using:
 
 ## 📂 Features
 
-- Clean and responsive single-page design
+- Responsive single-page design with light and dark themes
 - Sections for About, Skills, Projects, Education, and Contact
 - Project showcase with descriptions and links
 - Smooth navigation between sections
