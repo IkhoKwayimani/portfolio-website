@@ -158,6 +158,15 @@ h2 span { color: var(--accent); margin-right: 14px; }
 .p-links a::after { content: " \2197"; color: var(--accent); }
 .soon { color: var(--muted); font-style: italic; font-family: var(--serif); font-size: 0.95rem; }
 
+/* roadmap */
+.sub { font-family: var(--mono); font-weight: 500; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.14em; margin-top: 48px; }
+.sub-note { color: var(--muted); font-size: 0.95rem; margin-top: 4px; }
+.roadmap { list-style: none; margin-top: 16px; }
+.roadmap li { display: flex; justify-content: space-between; gap: 24px; padding: 11px 0; border-bottom: 1px dashed var(--rule); }
+.roadmap li:last-child { border-bottom: 0; }
+.roadmap span { font-family: var(--mono); font-size: 0.74rem; color: var(--muted); text-align: right; padding-top: 5px; }
+@media (max-width: 860px) { .roadmap li { flex-direction: column; gap: 2px; } .roadmap span { text-align: left; } }
+
 /* toolbox */
 .tools div {
   display: grid;
