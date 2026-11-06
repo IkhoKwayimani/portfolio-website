@@ -45,43 +45,44 @@ Web Development
 
 A SQL-powered personal finance analytics dashboard that helps users analyse spending behaviour, monitor monthly budgets, and generate financial insights through interactive visualisations.
 
-Technologies
+### Skills Demonstrated
 
-✅Python
-✅MySQL
-✅SQL
-✅Pandas
-✅SQLAlchemy
-✅Streamlit
+▪ Database Design
+▪ SQL Development
+▪ Data Analytics
+▪ Dashboard Development
+▪ Business Intelligence Reporting
+▪ Data Visualisation
 
-Skills Demonstrated
-▪Database Design
-▪SQL Development
-▪Data Analytics
-▪Dashboard Development
-▪Business Intelligence Reporting
-▪Data Visualisation
+### Technologies
+
+▪ Python
+▪ MySQL
+▪ SQL
+▪ Pandas
+▪ SQLAlchemy
+▪ Streamlit
 
 
 🔹 FixItNow – Home Services Platform
 
 A web-based platform that connects customers with technicians for maintenance and repair services.
 
-Technologies
+### Technologies
 
-✅Django
-✅Python
-✅HTML
-✅CSS
-✅JavaScript
+▪ Django
+▪ Python
+▪ HTML
+▪ CSS
+▪ JavaScript
 
-Skills Demonstrated
+### Skills Demonstrated
 
-▪Full-Stack Development
-▪Web Application Design
-▪Database Management
-▪Requirements Analysis
-▪User Experience Design
+▪ Full-Stack Development
+▪ Web Application Design
+▪ Database Management
+▪ Requirements Analysis
+▪ User Experience Design
 
 
 ## 📦 How to Run Locally
