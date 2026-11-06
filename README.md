@@ -23,7 +23,7 @@ This portfolio was built using:
 - CSS3
 - JavaScript
 
-##💡 Areas of Interest
+💡 Areas of Interest
 Software Development
 Data Analytics
 Business Analysis
@@ -32,7 +32,7 @@ Cybersecurity
 Database Systems
 Web Development
 
-## 📂 Features
+📂 Features
 
 - Responsive single-page design with light and dark themes
 - Sections for About, Skills, Projects, Education, and Contact
@@ -42,7 +42,7 @@ Web Development
 
 ## 🧠 Projects Included
 
-##🔹 FixItNow
+🔹 FixItNow
 
 A home services platform that connects customers with technicians for maintenance and repair services.
 
@@ -55,7 +55,7 @@ Customer service requests
 Tech Stack: Django, Python, HTML, CSS, JavaScript
 
 
-##🔹 To-Do List Web App
+🔹 To-Do List Web App
 
 A browser-based task management application with persistent local storage.
 
@@ -70,7 +70,7 @@ localStorage support for data persistence
 
 Tech Stack: HTML, CSS, JavaScript
 
-##🔹 Internship Application Tracker
+🔹 Internship Application Tracker
 
 A Python command-line application that helps users manage and track internship and graduate programme applications.
 
