@@ -40,49 +40,45 @@ Web Development
 - Smooth navigation between sections
 
 
-## 🧠 Projects Included
+## 🧠 Featured Projects
+🔹 SpendSmart – Personal Expense Analytics Dashboard
 
-🔹 FixItNow
+A SQL-powered personal finance analytics dashboard that helps users analyse spending behaviour, monitor monthly budgets, and generate financial insights through interactive visualisations.
 
-A home services platform that connects customers with technicians for maintenance and repair services.
+Technologies
+-Python
+-MySQL
+-SQL
+-Pandas
+-SQLAlchemy
+-Streamlit
 
-Features
-Appointment booking
-Service management
-Technician dashboards
-Customer service requests
+Skills Demonstrated
+-Database Design
+-SQL Development
+-Data Analytics
+-Dashboard Development
+-Business Intelligence Reporting
+-Data Visualisation
 
-Tech Stack: Django, Python, HTML, CSS, JavaScript
 
+🔹 FixItNow – Home Services Platform
 
-🔹 To-Do List Web App
+A web-based platform that connects customers with technicians for maintenance and repair services.
 
-A browser-based task management application with persistent local storage.
+Technologies
+-Django
+-Python
+-HTML
+-CSS
+-JavaScript
 
-Features
-Add tasks
-Delete tasks
-Responsive interface
-localStorage support for data persistence
-
-🔗 Live Demo: https://ikhokwayimani.github.io/todo-list-app/
-🔗 GitHub: https://github.com/IkhoKwayimani/todo-list-app
-
-Tech Stack: HTML, CSS, JavaScript
-
-🔹 Internship Application Tracker
-
-A Python command-line application that helps users manage and track internship and graduate programme applications.
-
-Features
-Add applications
-Update application status
-Search applications
-CSV file storage
-
-🔗 GitHub: https://github.com/IkhoKwayimani/internship-tracker
-
-Tech Stack: Python, CSV
+Skills Demonstrated
+-Full-Stack Development
+-Web Application Design
+-Database Management
+-Requirements Analysis
+-User Experience Design
 
 
 ## 📦 How to Run Locally
