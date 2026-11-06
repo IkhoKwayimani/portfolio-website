@@ -1,10 +1,12 @@
 🌐 Portfolio Website
 
-This is my personal portfolio website showcasing my software development skills, projects, and academic background.
+This is my personal portfolio website showcasing my academic background, technical skills, and projects in software development, data analytics, business analysis, artificial intelligence, and cybersecurit.
 
 👨‍💻 About Me
 
-I am an aspiring Software Developer with a strong academic foundation in Information Communication Technology (Applications Development).
+I am a Computer Science Honours student with qualifications in Information and Communication Technology (Applications Development). I have a strong interest in Software Development, Data Analytics, Business Analysis, Artificial Intelligence, and Cybersecurity.
+
+I enjoy designing practical technology solutions, analysing data to support decision-making, and applying technology to solve real-world problems. Through academic and personal projects, I have developed experience in web development, Python programming, database design, software engineering, and analytical problem-solving.
 
 - 🎓 Diploma in ICT (Applications Development)
 - 🎓 Advanced Diploma in ICT (Applications Development)
@@ -21,6 +23,14 @@ This portfolio was built using:
 - CSS3
 - JavaScript
 
+💡 Areas of Interest
+Software Development
+Data Analytics
+Business Analysis
+Artificial Intelligence and Machine Learning
+Cybersecurity
+Database Systems
+Web Development
 
 ## 📂 Features
 
@@ -32,30 +42,48 @@ This portfolio was built using:
 
 ## 🧠 Projects Included
 
-### 🔹 FixItNow
-A home services platform connecting customers with technicians.  
-Includes appointment booking, service management, and technician dashboards.
+🔹 FixItNow
 
-**Tech Stack:** Django, HTML, CSS, JavaScript
+A home services platform that connects customers with technicians for maintenance and repair services.
 
-### 🔹 To-Do List Web App
-A browser-based task management application with persistent storage.
+Features
+Appointment booking
+Service management
+Technician dashboards
+Customer service requests
 
-- Add and delete tasks
-- Uses localStorage to save tasks
+Tech Stack: Django, Python, HTML, CSS, JavaScript
 
-🔗 Live Demo: https://ikhokwayimani.github.io/todo-list-app/  
+
+🔹 To-Do List Web App
+
+A browser-based task management application with persistent local storage.
+
+Features
+Add tasks
+Delete tasks
+Responsive interface
+localStorage support for data persistence
+
+🔗 Live Demo: https://ikhokwayimani.github.io/todo-list-app/
 🔗 GitHub: https://github.com/IkhoKwayimani/todo-list-app
 
----
+Tech Stack: HTML, CSS, JavaScript
 
-### 🔹 Internship Application Tracker
-A Python command-line application for managing job and internship applications.
+🔹 Internship Application Tracker
 
-- Add, update, search, and track applications
-- Stores data using CSV files
+A Python command-line application that helps users manage and track internship and graduate programme applications.
+
+Features
+Add applications
+Update application status
+Search applications
+CSV file storage
 
 🔗 GitHub: https://github.com/IkhoKwayimani/internship-tracker
+
+Tech Stack: Python, CSV
+
 
 ## 📦 How to Run Locally
 
