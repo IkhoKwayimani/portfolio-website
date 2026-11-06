@@ -41,48 +41,48 @@ Web Development
 
 
 ## 🧠 Featured Projects
-🔹 SpendSmart – Personal Expense Analytics Dashboard
+
+### 🔹 SpendSmart – Personal Expense Analytics Dashboard
 
 A SQL-powered personal finance analytics dashboard that helps users analyse spending behaviour, monitor monthly budgets, and generate financial insights through interactive visualisations.
 
-### Skills Demonstrated
+#### Skills Demonstrated
 
-▪ Database Design
-▪ SQL Development
-▪ Data Analytics
-▪ Dashboard Development
-▪ Business Intelligence Reporting
-▪ Data Visualisation
+- Database Design
+- SQL Development
+- Data Analytics
+- Dashboard Development
+- Business Intelligence Reporting
+- Data Visualisation
 
-### Technologies
+#### Technologies
 
-▪ Python
-▪ MySQL
-▪ SQL
-▪ Pandas
-▪ SQLAlchemy
-▪ Streamlit
+- Python
+- MySQL
+- SQL
+- Pandas
+- SQLAlchemy
+- Streamlit
 
-
-🔹 FixItNow – Home Services Platform
+### 🔹 FixItNow – Home Services Platform
 
 A web-based platform that connects customers with technicians for maintenance and repair services.
 
-### Technologies
+#### Technologies
 
-▪ Django
-▪ Python
-▪ HTML
-▪ CSS
-▪ JavaScript
+- Django
+- Python
+- HTML
+- CSS
+- JavaScript
 
-### Skills Demonstrated
+#### Skills Demonstrated
 
-▪ Full-Stack Development
-▪ Web Application Design
-▪ Database Management
-▪ Requirements Analysis
-▪ User Experience Design
+- Full-Stack Development
+- Web Application Design
+- Database Management
+- Requirements Analysis
+- User Experience Design
 
 
 ## 📦 How to Run Locally
