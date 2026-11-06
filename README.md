@@ -1,6 +1,6 @@
 🌐 Portfolio Website
 
-This is my personal portfolio website showcasing my academic background, technical skills, and projects in software development, data analytics, business analysis, artificial intelligence, and cybersecurit.
+This is my personal portfolio website showcasing my academic background, technical skills, and projects in software development, data analytics, business analysis, artificial intelligence, and cybersecurity.
 
 👨‍💻 About Me
 
@@ -10,7 +10,7 @@ I enjoy designing practical technology solutions, analysing data to support deci
 
 - 🎓 Diploma in ICT (Applications Development)
 - 🎓 Advanced Diploma in ICT (Applications Development)
-- 🎓 Currently pursuing Bachelor of Honours in Computer Science
+- 🎓 Bachelor of Honours in Computer Science (In Progress)
 
 I am passionate about building practical, real-world applications and continuously improving my technical skills.
 
